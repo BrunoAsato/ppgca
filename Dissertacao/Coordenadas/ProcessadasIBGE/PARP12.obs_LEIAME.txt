@@ -1,0 +1,11 @@
+   Obrigado por usar o IBGE-PPP!!
+
+O arquivo asatobruno@gmail.com_PAR.zip_LIB_20191128150119.zip contem:
+
+PARP12.obs.pdf - Resumo do relatorio em PDF.
+PARP12.obs.sum - Relatorio do resultado (Contem as coordenadas do processamento estatico).
+PARP12.obs.pos - Arquivo de posicao ao longo do tempo (Mais interessante para processamento cinematico).
+PARP12.obs.kml - Arquivo Google Earth que indica o local aproximado do rastreio, caso opte por processamento estatico,
+ou que mostra o trajeto percorrido, caso opte por processamento cinematico.
+PARP12.obs_LEIAME.txt - Este arquivo.
+

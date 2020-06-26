@@ -1,0 +1,11 @@
+   Obrigado por usar o IBGE-PPP!!
+
+O arquivo asatobruno@gmail.com_IAPARA2P5.zip_LIB_20191128145825.zip contem:
+
+IAPARA2P5.obs.pdf - Resumo do relatorio em PDF.
+IAPARA2P5.obs.sum - Relatorio do resultado (Contem as coordenadas do processamento estatico).
+IAPARA2P5.obs.pos - Arquivo de posicao ao longo do tempo (Mais interessante para processamento cinematico).
+IAPARA2P5.obs.kml - Arquivo Google Earth que indica o local aproximado do rastreio, caso opte por processamento estatico,
+ou que mostra o trajeto percorrido, caso opte por processamento cinematico.
+IAPARA2P5.obs_LEIAME.txt - Este arquivo.
+

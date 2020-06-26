@@ -1,0 +1,7 @@
+from keras.layers import conv2D, denso
+from keras import Sequential
+model = Sequential ()
+model.add (Conv2D (64, kernel_size = 3, ativação = 'relu', input_shape = (28,28,1)))
+model.add (Conv2D (32, kernel_size = 3, activation = 'relu'))
+model.add (Flatten ())
+model.add (denso (10, ativação = 'softmax'))
